@@ -7,6 +7,8 @@ public class ContainsDuplicates {
      * @param nums an array of ints.
      * @return true if nums contains any duplicate values, false if it does not.
      */
+
+     //This the main method
     public static void main(String [] args){
 
     }
